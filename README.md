@@ -1,6 +1,6 @@
 # Sum Of First and Last Digit In C++
 
-## *This is a random c++ code to find the sum of first and last digit of a given number. This code works even if the first number is Zero '0'.*
+## *This is a random c++ code to find the sum of first and last digit of a given number. This code works even if the first digit is Zero '0'.*
 
 eg:
 if the input number is `1234` then the sum of the first digit ie. `1` and last digit ie. `4` will be equal to `5`.
