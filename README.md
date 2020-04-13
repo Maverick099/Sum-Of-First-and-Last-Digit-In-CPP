@@ -10,4 +10,3 @@ Which is very easy to find using the `while(){}` and the `%` operator.
 
 The above problem is tacked with taking the input as `string` and running throug a simple `if-else` statement and converting the `string` input to `int` using the `stoi()` funnction.
 
-![C/C++ CI](https://github.com/Maverick099/Sum-Of-First-and-Last-Digit-In-CPP/workflows/C/C++%20CI/badge.svg)
